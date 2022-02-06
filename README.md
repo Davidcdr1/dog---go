@@ -9,12 +9,11 @@
 
 #DOG & GO
 
-Projecto final del Bootcamp Fullstack de la Coding Academy by Epitech
+Proyecto final del Bootcamp Fullstack de la Coding Academy by Epitech
 
-Consiste en una red social similar a instagram pero pensada para socializar entre dueños de mascotas, especialmente perros y poder quedar para pasear con ellos.
-Consta de un perfil tanto del dueño como del perro, galeria de imagenes, favoritos, comentarios, likes, busqueda de perfiles etc...
+Consiste en una red social similar a instagram pero pensada para socializar entre dueños de mascotas, especialmente perros y poder quedar para pasear con ellos. Consta de un perfil tanto del dueño como del perro, galería de imágenes, favoritos, comentarios, likes, búsqueda de perfiles etc...
 
-Es su primera version y hay funcionalidades pendientes como poder enviar mensajes privados y hacer follow.
+Es su primera versión y hay funcionalidades pendientes como poder enviar mensajes privados y hacer follow.
 
 ##Tecnologias:
 
